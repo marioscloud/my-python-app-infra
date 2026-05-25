@@ -1,0 +1,9 @@
+# GCP Account Details
+project_id = "YOUR_PROJECT_ID_HERE"
+
+# Geographical Location
+region = "europe-west3"
+zone   = "europe-west3-a"
+
+# Infrastructure Toggles
+deletion_protection = false
